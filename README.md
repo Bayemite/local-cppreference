@@ -25,3 +25,4 @@ Example: `search.html?q=your-query-here`
     - Use [html-book directory]/reference/en as the root directory for the command line argument.
     - Redirect to a file for convenience.
 - Place output into the 'data' variable, an array at the bottom of the 'search.js' file.
+- Update the stylesheet href links in 'search.html'.
